@@ -1,0 +1,8 @@
+Social Media Guide for Free Software Projects
+=========
+
+This guide tries to help Free Software projects interact with their users through social media.
+
+This book is written using using the git-scribe toolchain, which can be found at: http://github.com/schacon/git-scribe
+
+Please fork and send merge requests :)
